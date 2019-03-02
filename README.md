@@ -3,7 +3,7 @@
 A project by Nicholas Keenan. Pennkey: nkeenan.
 Demo link: https://nkeenan.github.io/hw04-l-systems
 
-![tree.png]
+![](tree.png)
 
 ## Tree
 
